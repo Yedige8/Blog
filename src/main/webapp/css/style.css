@@ -1,0 +1,16 @@
+.small-container {
+    width: 350px;
+}
+.exit {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    height: 50px;
+    background-color: white;
+    margin: 20px auto;
+    border: 1px solid #cccccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .3);
+    padding: 10px;
+}
